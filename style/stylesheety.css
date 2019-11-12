@@ -16,4 +16,14 @@ body {
 	margin-right: auto;
 	background-color: #2F2F2F;
 	color: #ffffff;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+
+.center {
+	width: 1000px;
+	min-height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #333333;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 }
