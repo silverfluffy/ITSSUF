@@ -29,3 +29,15 @@ body {
 	color: #ffffff;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 }
+
+#centertop {
+	background-color: #BF1C1F;
+}
+
+#centermid {
+	background-color: #1127C9;
+}
+
+#centerbot {
+	background-color: #DD13E2;
+}
