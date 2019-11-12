@@ -49,6 +49,8 @@ body {
 #foot {
 	height: 37.6px;
 	width: 1280px;
-	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
 	background-color: #2F2F2F;
 }
