@@ -8,6 +8,10 @@ body {
 	width: auto;
 }
 
+.tb {
+	text-align: center;
+	margin: 20px;
+}
 
 .main {
 	width: 1280px;
