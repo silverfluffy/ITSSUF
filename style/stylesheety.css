@@ -35,7 +35,7 @@ body {
 }
 
 #toolbar {
-	width: auto;
+	width: fill;
 	height: 65px;
 	background-color: #333333;
 }
