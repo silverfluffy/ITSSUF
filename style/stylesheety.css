@@ -41,7 +41,10 @@ body {
 #toolbar {
 	width: 1280px;
 	height: 65px;
-	padding: fill;
+	padding-left: fill;
+	padding-right: fill;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: #313131;
 }
 
