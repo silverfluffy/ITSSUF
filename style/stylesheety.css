@@ -72,13 +72,10 @@ body {
 	background-color: #2F2F2F;
 }
 
-a {
+a:hover {
 	width: 20px;
 	height: 10px;
-}
-
-a:hover {
-	
+	background-color: #212020;
 }
 
 a:visited {
