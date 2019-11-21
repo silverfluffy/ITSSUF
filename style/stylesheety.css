@@ -72,6 +72,11 @@ body {
 	background-color: #2F2F2F;
 }
 
+a {
+	width: 20px;
+	height: 10px;
+}
+
 a:hover {
 	
 }
