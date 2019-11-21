@@ -76,6 +76,8 @@ a:hover {
 	width: 30px;
 	height: 20px;
 	background-color: #212020;
+	border: medium;
+	animation-delay: 0.5s;
 }
 
 a:visited {
