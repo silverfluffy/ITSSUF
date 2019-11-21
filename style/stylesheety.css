@@ -72,6 +72,14 @@ body {
 	background-color: #2F2F2F;
 }
 
+a {
+	width: 25px;
+	height: 15px;
+	background-color: #2F2E2E;
+	border: medium;
+	animation-delay: 0.5s;
+}
+
 a:hover {
 	width: 30px;
 	height: 20px;
