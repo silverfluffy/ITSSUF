@@ -73,30 +73,42 @@ body {
 }
 
 a {
-	width: 25px;
-	height: 15px;
-	background-color: #2F2E2E;
+	text-decoration-line: none;
+	margin-top: 10px;
+	background-color: #272727;
 	border: medium;
+	border-radius: 10px;
 	animation-delay: 0.5s;
 	color: #FFFFFF;
 }
 
 a:hover {
-	width: 30px;
-	height: 20px;
+	text-decoration-line: none;
+	margin-top: 10px;
 	background-color: #212020;
 	border: medium;
+	border-radius: 15px;
+	transform: translateY(4px);
 	animation-delay: 0.5s;
 }
 
 a:visited {
+	text-decoration-line: none;
 	
 }
 
 a:link {
+	text-decoration-line: none;
 	
 }
 
 a:active {
+	text-decoration-line: none;
+	margin-top: 10px;
+	background-color: #212020;
+	border: medium;
+	border-radius: 20px;
+	transform: translateY(8px);
+	animation-delay: 0.5s;
 	
 }
