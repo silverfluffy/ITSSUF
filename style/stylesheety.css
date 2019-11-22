@@ -74,7 +74,8 @@ body {
 
 a {
 	text-decoration-line: none;
-	padding: 10px;
+	padding: 20px;
+	width: 100px;
 	background-color: #272727;
 	border: medium;
 	border-radius: 2px;
@@ -85,7 +86,8 @@ a {
 
 a:hover {
 	text-decoration-line: none;
-	padding: 15px;
+	padding: 25px;
+	width: 105px;
 	background-color: #212020;
 	border: medium;
 	border-radius: 4px;
@@ -106,7 +108,8 @@ a:link {
 
 a:active {
 	text-decoration-line: none;
-	padding: 20px;
+	padding: 30px;
+	width: 110px;
 	background-color: #212020;
 	border: medium;
 	border-radius: 6px;
