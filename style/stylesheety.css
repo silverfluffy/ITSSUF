@@ -78,17 +78,20 @@ body {
 
 #info {
 	float: left;
-	margin-left: 213px;
+	margin: 0 auto;
+	margin-top: 13px;
 }
 
 #tjanst {
 	float: left;
-	margin-left: 213px;
+	margin: 0 auto;
+	margin-top: 13px;
 }
 
 #kontakt {
 	float: left;
-	margin-left: 213px;
+	margin: 0 auto;
+	margin-top: 13px;
 }
 
 a {
