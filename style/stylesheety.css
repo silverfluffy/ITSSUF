@@ -81,6 +81,7 @@ a {
 	border-radius: 5px;
 	color: #FFFFFF;
 	transition: 0.3s;
+	margin-top: 15px;
 }
 
 a:hover {
