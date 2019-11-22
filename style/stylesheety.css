@@ -78,7 +78,7 @@ a {
 	background-color: #272727;
 	border: medium;
 	border-radius: 30px;
-	animation: 0.5s;
+	animation-duration: 0.5s;
 	color: #FFFFFF;
 }
 
@@ -89,7 +89,7 @@ a:hover {
 	border: medium;
 	border-radius: 35px;
 	transform: translateY(4px);
-	animation: 0.5s;
+	animation-duration: 0.5s;
 }
 
 a:visited {
@@ -109,6 +109,6 @@ a:active {
 	border: medium;
 	border-radius: 40px;
 	transform: translateY(8px);
-	animation: 0.5s;
+	animation-duration: 0.5s;
 	
 }
