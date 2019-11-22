@@ -74,22 +74,24 @@ body {
 
 a {
 	text-decoration-line: none;
-	margin-top: 10px;
+	padding: 10px;
 	background-color: #272727;
 	border: medium;
-	border-radius: 30px;
+	border-radius: 2px;
 	animation-duration: 0.5s;
 	color: #FFFFFF;
+	transition: 0.5s;
 }
 
 a:hover {
 	text-decoration-line: none;
-	margin-top: 10px;
+	padding: 15px;
 	background-color: #212020;
 	border: medium;
-	border-radius: 35px;
+	border-radius: 4px;
 	transform: translateY(4px);
 	animation-duration: 0.5s;
+	transition: 0.5s;
 }
 
 a:visited {
@@ -104,11 +106,12 @@ a:link {
 
 a:active {
 	text-decoration-line: none;
-	margin-top: 10px;
+	padding: 20px;
 	background-color: #212020;
 	border: medium;
-	border-radius: 40px;
+	border-radius: 6px;
 	transform: translateY(8px);
 	animation-duration: 0.5s;
+	transition: 0.5s;
 	
 }
