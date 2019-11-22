@@ -92,7 +92,6 @@ a:hover {
 	border: medium;
 	border-radius: 4px;
 	transform: translateY(4px);
-	animation-duration: 0.5s;
 	transition: 0.5s;
 }
 
