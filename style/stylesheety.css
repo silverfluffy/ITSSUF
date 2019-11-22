@@ -10,7 +10,10 @@ body {
 
 .tb {
 	text-align: center;
-	margin: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: auto;
+	margin-bottom: auto;
 }
 
 .main {
@@ -81,7 +84,6 @@ a {
 	border-radius: 5px;
 	color: #FFFFFF;
 	transition: 0.3s;
-	margin-top: 15px;
 }
 
 a:hover {
