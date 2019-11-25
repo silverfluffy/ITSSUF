@@ -108,7 +108,7 @@ a {
 a:hover {
 	text-decoration-line: none;
 	padding: 15px;
-	width: 105px;
+	width: 100px;
 	background-color: #212020;
 	border: medium;
 	border-radius: 10px;
@@ -128,7 +128,7 @@ a:link {
 a:active {
 	text-decoration-line: none;
 	padding: 18px;
-	width: 110px;
+	width: 100px;
 	background-color: #212020;
 	border: medium;
 	border-radius: 15px;
