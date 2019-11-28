@@ -126,7 +126,7 @@ a:link {
 a:active {
 	text-decoration-line: none;
 	background-color: #212020;
-	color: #00FFE8
+	color: #00FFE8;
 	padding: 16px 10px;
 	border: medium;
 	border-radius: 15px;
